@@ -1,0 +1,2 @@
+D:\SIS457\TAREA1\ejemplo01\ejemplo01\Debug\ejemplo01.exe
+D:\SIS457\TAREA1\ejemplo01\ejemplo01\Debug\ejemplo01.pdb
